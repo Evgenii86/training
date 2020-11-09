@@ -1,0 +1,6 @@
+C:\Users\Евгений\source\repos\ITMO.TechProg.ClassLibrary\obj\Debug\ITMO.TechProg.ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.TechProg.ClassLibrary\obj\Debug\ITMO.TechProg.ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.TechProg.ClassLibrary\bin\Debug\ITMO.TechProg.ClassLibrary.dll
+C:\Users\Евгений\source\repos\ITMO.TechProg.ClassLibrary\bin\Debug\ITMO.TechProg.ClassLibrary.pdb
+C:\Users\Евгений\source\repos\ITMO.TechProg.ClassLibrary\obj\Debug\ITMO.TechProg.ClassLibrary.dll
+C:\Users\Евгений\source\repos\ITMO.TechProg.ClassLibrary\obj\Debug\ITMO.TechProg.ClassLibrary.pdb

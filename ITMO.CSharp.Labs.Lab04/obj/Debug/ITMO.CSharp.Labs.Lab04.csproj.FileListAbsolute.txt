@@ -1,0 +1,7 @@
+C:\Users\Евгений\source\repos\ITMO.CSharp.Labs.Lab04\bin\Debug\ITMO.CSharp.Labs.Lab04.exe.config
+C:\Users\Евгений\source\repos\ITMO.CSharp.Labs.Lab04\bin\Debug\ITMO.CSharp.Labs.Lab04.exe
+C:\Users\Евгений\source\repos\ITMO.CSharp.Labs.Lab04\bin\Debug\ITMO.CSharp.Labs.Lab04.pdb
+C:\Users\Евгений\source\repos\ITMO.CSharp.Labs.Lab04\obj\Debug\ITMO.CSharp.Labs.Lab04.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\ITMO.CSharp.Labs.Lab04\obj\Debug\ITMO.CSharp.Labs.Lab04.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\ITMO.CSharp.Labs.Lab04\obj\Debug\ITMO.CSharp.Labs.Lab04.exe
+C:\Users\Евгений\source\repos\ITMO.CSharp.Labs.Lab04\obj\Debug\ITMO.CSharp.Labs.Lab04.pdb

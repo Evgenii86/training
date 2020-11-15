@@ -1,0 +1,7 @@
+C:\Users\Евгений\source\repos\install folderLabsLab02\Divider\bin\Debug\Divider.exe.config
+C:\Users\Евгений\source\repos\install folderLabsLab02\Divider\bin\Debug\Divider.exe
+C:\Users\Евгений\source\repos\install folderLabsLab02\Divider\bin\Debug\Divider.pdb
+C:\Users\Евгений\source\repos\install folderLabsLab02\Divider\obj\Debug\Divider.csprojAssemblyReference.cache
+C:\Users\Евгений\source\repos\install folderLabsLab02\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\source\repos\install folderLabsLab02\Divider\obj\Debug\Divider.exe
+C:\Users\Евгений\source\repos\install folderLabsLab02\Divider\obj\Debug\Divider.pdb

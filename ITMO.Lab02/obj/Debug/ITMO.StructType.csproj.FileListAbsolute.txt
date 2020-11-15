@@ -1,0 +1,7 @@
+C:\Downloads\Labs\Lab03\Starter\StructType\ITMO.StructType\bin\Debug\ITMO.StructType.exe.config
+C:\Downloads\Labs\Lab03\Starter\StructType\ITMO.StructType\bin\Debug\ITMO.StructType.exe
+C:\Downloads\Labs\Lab03\Starter\StructType\ITMO.StructType\bin\Debug\ITMO.StructType.pdb
+C:\Downloads\Labs\Lab03\Starter\StructType\ITMO.StructType\obj\Debug\ITMO.StructType.csprojAssemblyReference.cache
+C:\Downloads\Labs\Lab03\Starter\StructType\ITMO.StructType\obj\Debug\ITMO.StructType.csproj.CoreCompileInputs.cache
+C:\Downloads\Labs\Lab03\Starter\StructType\ITMO.StructType\obj\Debug\ITMO.StructType.exe
+C:\Downloads\Labs\Lab03\Starter\StructType\ITMO.StructType\obj\Debug\ITMO.StructType.pdb

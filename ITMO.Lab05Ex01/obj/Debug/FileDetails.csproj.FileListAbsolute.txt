@@ -1,0 +1,7 @@
+C:\install folder\Labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\FileDetails.exe.config
+C:\install folder\Labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\FileDetails.exe
+C:\install folder\Labs\Lab06\Starter\FileDetails\FileDetails\bin\Debug\FileDetails.pdb
+C:\install folder\Labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\FileDetails.csprojAssemblyReference.cache
+C:\install folder\Labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+C:\install folder\Labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\FileDetails.exe
+C:\install folder\Labs\Lab06\Starter\FileDetails\FileDetails\obj\Debug\FileDetails.pdb

@@ -1,0 +1,6 @@
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.exe
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\bin\Debug\MoreMethods.pdb
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\Bank.csprojAssemblyReference.cache
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.exe
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab08\STARTER\BANK\obj\Debug\MoreMethods.pdb

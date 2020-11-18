@@ -1,0 +1,6 @@
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\bin\Debug\MoreMethods.exe
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\bin\Debug\MoreMethods.pdb
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.csprojAssemblyReference.cache
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.exe
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\MOREMETHODS\obj\Debug\MoreMethods.pdb

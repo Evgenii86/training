@@ -1,0 +1,6 @@
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.exe
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\bin\Debug\Constructors.pdb
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csprojAssemblyReference.cache
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.exe
+C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab09\STARTER\CONSTRUCTORS\obj\Debug\Constructors.pdb

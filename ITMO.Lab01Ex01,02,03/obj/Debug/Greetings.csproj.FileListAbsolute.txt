@@ -1,7 +1,0 @@
-C:\Users\Евгений\source\repos\Greetings\bin\Debug\Greetings.exe.config
-C:\Users\Евгений\source\repos\Greetings\bin\Debug\Greetings.exe
-C:\Users\Евгений\source\repos\Greetings\bin\Debug\Greetings.pdb
-C:\Users\Евгений\source\repos\Greetings\obj\Debug\Greetings.csprojAssemblyReference.cache
-C:\Users\Евгений\source\repos\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
-C:\Users\Евгений\source\repos\Greetings\obj\Debug\Greetings.exe
-C:\Users\Евгений\source\repos\Greetings\obj\Debug\Greetings.pdb

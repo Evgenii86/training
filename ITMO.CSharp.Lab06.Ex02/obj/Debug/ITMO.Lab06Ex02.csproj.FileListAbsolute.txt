@@ -1,6 +1,0 @@
-C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.exe
-C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\bin\Debug\UniqueNumbers.pdb
-C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\ITMO.Lab06Ex02.csprojAssemblyReference.cache
-C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\ITMO.Lab06Ex02.csproj.CoreCompileInputs.cache
-C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.exe
-C:\Users\Евгений\Downloads\CSharpLabs\CSharpLabs\Lab07\STARTER\UNIQUENUMBERS\obj\Debug\UniqueNumbers.pdb
